@@ -1,7 +1,7 @@
 # fractol
 ### Description
 Discover 2D programming and the psychedelic universe of fractals with minilibX in a project sure to make you 'oouuuahhh'.
-```
+```diff
 Objectives:
 + 2D Programming 
 + Optimisation techniques
