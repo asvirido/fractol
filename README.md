@@ -65,9 +65,11 @@ Full of fun fractals (sites listing more than one hundred different type).
 For two valid parameters in command line, results two windows of two fractals
 ```
 ### BurnShip
-<img align="top"  src="https://github.com/asvirido/fractol/blob/master/Image/burn_ship1.jpg" width="50%" />
-<img align="top"  src="https://github.com/asvirido/fractol/blob/master/Image/burn_ship2.jpg" width="50%" />
-# Mandelbrot
-<img align="left"  src="https://github.com/asvirido/fractol/blob/master/Image/mandelbrot_1.jpg" width="50%" />
-<img align="left"  src="https://github.com/asvirido/fractol/blob/master/Image/mandelbrot_zoom_2.jpg" width="50%" />
-<img align="left"  src="https://github.com/asvirido/fractol/blob/master/Image/mandelbrot_zoom.jpg" width="50%" />
+<img align="top"  src="https://github.com/asvirido/fractol/blob/master/Image/burn_ship1.jpg" width="60%" />
+<img align="top"  src="https://github.com/asvirido/fractol/blob/master/Image/burn_ship2.jpg" width="60%" />
+
+### Mandelbrot
+
+<img align="left"  src="https://github.com/asvirido/fractol/blob/master/Image/mandelbrot_1.jpg" width="60%" />
+<img align="left"  src="https://github.com/asvirido/fractol/blob/master/Image/mandelbrot_zoom_2.jpg" width="60%" />
+<img align="left"  src="https://github.com/asvirido/fractol/blob/master/Image/mandelbrot_zoom.jpg" width="60%" />
